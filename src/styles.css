@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+@import "~bootstrap/dist/css/bootstrap.css";
+body{
+background-color: #801336;
+}
+h1{
+ text-align: center;
+ font-size: 70px;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+}
+img{
+    height: 500px;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+
+.btn-group{
+    align-items: center;
+    width: 310px;
+    height: 200px;
+    top: 20px;
+    
+    color: #000000;
+}
+

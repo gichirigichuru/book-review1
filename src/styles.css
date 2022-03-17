@@ -32,7 +32,20 @@ img{
 }
 .text{
     float: right;
-    margin-right: 60%;
-    margin-top: 10%;
+    margin-right: 58%;
+    margin-top: 5%;
+    font-size: 20%;
+}
+.Log{
+    float: right;
+    margin-top: 5px;
+    font-size: xx-large;
+}
+.Search{
+    margin-top: -11%;
+}
+.Book{
+    margin-top: 20%;
+    margin-left: 35%;
 }
 

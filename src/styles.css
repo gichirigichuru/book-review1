@@ -4,6 +4,7 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 body{
 background-color: #FFEFBA;
+font-family: raleway;
 }
 h1{
  text-align: center;
@@ -14,6 +15,7 @@ p{
     text-align: center;
 }
 img{
+    margin-top: 5px;
     height: 500px;
     margin-left: 300px;
     margin-right: 300px;
@@ -27,5 +29,10 @@ img{
     top: 20px;
     
     color: #000000;
+}
+.text{
+    float: right;
+    margin-right: 60%;
+    margin-top: 10%;
 }
 
